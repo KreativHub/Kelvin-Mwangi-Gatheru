@@ -1,0 +1,8 @@
+{
+  "name": "TUPATANE",
+  "description": "A web application to help find missing Kenyan citizens, report disappearances, and connect with support services. TUPATANE aims to curb mysterious disappearances by providing a platform for reporting and information sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
